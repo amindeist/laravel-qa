@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3777a23-db72-4cdd-99e0-318acae4a242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Amin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/laravel-qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-qa.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +124,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/helpers" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Ziny88zdzMi5iQhk13bm7BPexE" />
@@ -158,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585331034452</updated>
-      <workItem from="1585331042392" duration="534000" />
+      <workItem from="1585331042392" duration="5145000" />
     </task>
     <servers />
   </component>
@@ -166,21 +165,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="250" key="GridCell.Tab.0.bottom" timestamp="1585331546895">
+    <state width="1322" height="250" key="GridCell.Tab.0.bottom" timestamp="1585331836558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585331546895" />
-    <state width="1322" height="250" key="GridCell.Tab.0.center" timestamp="1585331546894">
+    <state width="1322" height="250" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585331836558" />
+    <state width="1322" height="250" key="GridCell.Tab.0.center" timestamp="1585331836557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585331546894" />
-    <state width="1322" height="250" key="GridCell.Tab.0.left" timestamp="1585331546894">
+    <state width="1322" height="250" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585331836557" />
+    <state width="1322" height="250" key="GridCell.Tab.0.left" timestamp="1585331836557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585331546894" />
-    <state width="1322" height="250" key="GridCell.Tab.0.right" timestamp="1585331546895">
+    <state width="1322" height="250" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585331836557" />
+    <state width="1322" height="250" key="GridCell.Tab.0.right" timestamp="1585331836557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585331546895" />
+    <state width="1322" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585331836557" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585336204119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585336204119" />
   </component>
 </project>
