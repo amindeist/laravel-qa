@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3777a23-db72-4cdd-99e0-318acae4a242" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/questions/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Amin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Amin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel-qa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-qa.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Question.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,7 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
-      <executable />
+      <executable path="composer" />
     </execution>
   </component>
   <component name="Git.Settings">
@@ -120,6 +128,15 @@
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
       <path value="$PROJECT_DIR$/vendor/laravel/helpers" />
+      <path value="$PROJECT_DIR$/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Ziny88zdzMi5iQhk13bm7BPexE" />
@@ -135,6 +152,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -153,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585331034452</updated>
       <workItem from="1585331042392" duration="5343000" />
-      <workItem from="1585403950348" duration="4064000" />
+      <workItem from="1585403950348" duration="10215000" />
     </task>
     <servers />
   </component>
@@ -165,6 +183,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1585414978300" />
+    <state x="524" y="231" width="598" height="298" key="ComposerAddDependencyOutputPopupDimensionServiceKey" timestamp="1585418520095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="524" y="231" width="598" height="298" key="ComposerAddDependencyOutputPopupDimensionServiceKey/0.0.1366.728@0.0.1366.728" timestamp="1585418520095" />
+    <state x="446" y="273" key="ComposerInitDialogKey" timestamp="1585418282968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="273" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1585418282967" />
     <state width="1322" height="250" key="GridCell.Tab.0.bottom" timestamp="1585336531856">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -181,9 +207,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="250" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585336531856" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585336376878">
+    <state x="518" y="282" key="NewPhpFileDialog" timestamp="1585419299393">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585336376878" />
+    <state x="518" y="282" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585419299393" />
+    <state x="415" y="167" key="PHPComposerAddDependencyDialogDimensionKey" timestamp="1585418582609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="415" y="167" key="PHPComposerAddDependencyDialogDimensionKey/0.0.1366.728@0.0.1366.728" timestamp="1585418582609" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585418998662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585418998662" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585421304258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585421304258" />
   </component>
 </project>
