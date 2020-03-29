@@ -2,15 +2,134 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3777a23-db72-4cdd-99e0-318acae4a242" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBadr.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBadr.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBadr.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBaran.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBaran.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBaran.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBardiya.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBardiya.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BBardiya.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BCompset.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BCompset.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BCompset.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BDavat.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BDavat.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BDavat.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BElham.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BElham.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BElham.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BEsfehanBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BEsfehanBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BEsfehanBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFantezy.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFantezy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFantezy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFarnaz.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFarnaz.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFarnaz.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFerdosi.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFerdosi.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BFerdosi.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHamid.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHamid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHamid.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHelal.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHelal.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHelal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHoma.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHoma.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BHoma.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BJadidBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BJadidBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BJadidBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BJalal.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BJalal.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BJalal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BKoodakBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BKoodakBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BKoodakBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BKourosh.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BKourosh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BKourosh.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BLotus.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BLotus.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BLotus.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMahsa.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMahsa.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMahsa.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMehrBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMehrBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMehrBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMitra.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMitra.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMitra.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMorvarid.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMorvarid.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BMorvarid.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNarm.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNarm.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNarm.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNasimBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNasimBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNasimBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNazanin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNazanin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BNazanin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BRoya.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BRoya.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BRoya.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BSetarehBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BSetarehBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BSetarehBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BShiraz.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BShiraz.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BShiraz.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BSinaBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BSinaBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BSinaBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTabassom.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTabassom.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTabassom.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTehran.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTehran.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTehran.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTitrBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTitrBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTitrBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTitrTGEBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTitrTGEBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTitrTGEBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTraffic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTraffic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BTraffic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BVahidBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BVahidBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BVahidBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYagut.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYagut.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYagut.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYas.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYas.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYas.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYekan.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYekan.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BYekan.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BZar.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BZar.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BZar.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BZiba.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BZiba.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BZiba.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/questions/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/QuestionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/QuestionsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Question.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Question.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/questions/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/questions/index.blade.php" afterDir="false" />
@@ -25,6 +144,13 @@
     <execution>
       <executable path="composer" />
     </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,8 +277,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/questions" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Laravel.SettingsForm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\laravel-qa\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\laragon\www\laravel-qa\resources\views\questions" />
+      <recent name="D:\laragon\www\laravel-qa\public\fonts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -172,7 +309,7 @@
       <updated>1585331034452</updated>
       <workItem from="1585331042392" duration="5343000" />
       <workItem from="1585403950348" duration="12263000" />
-      <workItem from="1585494698080" duration="4769000" />
+      <workItem from="1585494698080" duration="12426000" />
     </task>
     <servers />
   </component>
@@ -216,13 +353,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="415" y="167" key="PHPComposerAddDependencyDialogDimensionKey/0.0.1366.728@0.0.1366.728" timestamp="1585418582609" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1585418998662">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1585506020049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585418998662" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585496593747">
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585506020049" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585501421091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585496593747" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585501421091" />
   </component>
 </project>
