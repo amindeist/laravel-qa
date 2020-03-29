@@ -5,13 +5,24 @@
         <div class="row justify-content-center">
             <div class="col-md-12">
                 <div class="card">
-                    <div class="card-header">All Questions</div>
+                    <div class="card-header">
+                        <div class="d-flex align-items-center">
+                            <h2>فهرست سوالات</h2>
+                            <div class="ml-auto">
+                                <a href="{{ route('questions.create') }}" class="btn btn-outline-secondary">یک سوال بپرسید</a>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="card-body">
                         @foreach ($questions as $question)
                             <div class="media">
                                 <div class="media-body">
-                                    <h3 class="mt-0">{{ $question->title }}</h3>
+                                    <h3 class="mt-0"><a href="{{ $question->url }}">{{ $question->title }}</a></h3>
+                                    <p class="lead">
+                                        <a href="{{ $question->user->url }}">{{ $question->user->name }}</a>
+                                        <small class="text-muted">{{ $question->created_date }}</small>
+                                    </p>
                                     {{ str_limit($question->body, 250) }}
                                 </div>
                             </div>
